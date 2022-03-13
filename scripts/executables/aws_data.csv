@@ -1,0 +1,3 @@
+list_instances,describe-instances
+start_instances,start-instances
+stop_instances,stop-instances
