@@ -65,8 +65,6 @@ fi
 # }
 # parsedCmdLine "$@"
 
-#******TO DO 
-############# --- 3) Add Logging
 # if [[ $commandFound == "describe-instances" ]]; then
 if [ $findCommand "$1" == list ]; then
 	commandFound=$([ $# -eq 1 ] && findCommand "$1")
