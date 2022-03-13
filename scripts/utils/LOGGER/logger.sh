@@ -1,7 +1,7 @@
 #!/bin/bash
 
 LOCALPATH="$(dirname "${BASH_SOURCE[0]}")"
-source "$HOME"/Desktop/AWS/scripts/env.sh
+source "$HOME"/Desktop/DevOps/scripts/env.sh
 
 # first=$1  #If the first word is an IAN, then change to username and pring that
 log=$@
