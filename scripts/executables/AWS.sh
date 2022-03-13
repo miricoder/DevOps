@@ -3,7 +3,7 @@
 ############# --- 1) Put in GIT Repo - call this version bash_awsCli
 
 LOCALPATH="$(dirname "${BASH_SROUCE[0]}")"
-source "$HOME"/Desktop/AWS/scripts/env.sh
+source "$HOME"/Desktop/DevOps/scripts/env.sh
 
 rundir=`dirname $0`
 csv=$rundir/aws_data.csv

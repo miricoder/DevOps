@@ -1,5 +1,5 @@
 #LOGGER
-LOG="$HOME"/Desktop/AWS/scripts/utils/LOGGER/logger.sh
+LOG="$HOME"/Desktop/DevOps/scripts/utils/LOGGER/logger.sh
 
 #COMMON COLORS - USE: https://www.tutorialspoint.com/how-to-output-colored-text-to-a-linux-terminal
 RED='\033[0;31m'
