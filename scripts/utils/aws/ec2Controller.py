@@ -6,7 +6,7 @@ import sys
 
 
 #Specify AWS key
-auth = {"aws_access_key_id" : "AKIAUZ7U7WPKOXG6YP4S", "aws_secret_access_key": "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"}
+auth = {"aws_access_key_id" : "<>", "aws_secret_access_key": "<>"}
 
 def main():
 	# read arguments from the command line and 
